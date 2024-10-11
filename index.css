@@ -1,0 +1,86 @@
+@import url(https://db.onlinewebfonts.com/c/f0d74efcb3514ddd8b40798b589948d1?family=Compacta+Bold);
+
+h1 {font-family: Compacta Bold;
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot");
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.svg#Compacta Bold")
+}
+h1 {
+    color: rgb(247, 227, 204);
+}
+h2 {font-family: Compacta Bold;
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot");
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.svg#Compacta Bold")
+}
+h2 {
+    color: rgb(247, 227, 204);
+}
+p {font-family: Compacta Bold;
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot");
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.svg#Compacta Bold")
+}
+p {
+    color: rgb(247, 227, 204);
+}
+td {font-family: Compacta Bold;
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot");
+    src: url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f0d74efcb3514ddd8b40798b589948d1.svg#Compacta Bold")
+}
+td {
+    color: rgb(247, 227, 204);
+}
+body{
+    background-color: #440202;
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+.img_cont{
+    overflow: hidden;
+    margin-left: 190px;
+width: 300px;
+height: 400px;
+box-shadow: 0 0 100px rgb(0, 0, 0.7)
+}
+.zoom {
+    width: 100%; 
+    height: 100%;
+    transition: transform 0.5s ease; 
+     }
+     .zoom:hover {
+        transform: scale(1.2); 
+    }
+    iframe {
+
+        box-shadow: 0 0 100px rgb(0, 0, 0.7)
+    }
